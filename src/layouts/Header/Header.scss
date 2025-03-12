@@ -9,7 +9,7 @@
   animation-fill-mode: both;
   animation-timeline: scroll();
   animation-range: 0 100px;
-  
+
   @keyframes scrolling-header {
     to {
       padding-block: 10px;
@@ -29,10 +29,10 @@
     padding: fluid-to-laptop(10, 8);
     background-color: var(--color-black-06);
     outline: var(--border-width-l) solid var(--color-black-12);
-    border-right: var(--border-radius-l);
+    border-radius: var(--border-radius-l);
 
     @include laptop {
-      border-right: var(--border-radius-m);
+      border-radius: var(--border-radius-m);
     }
 
     &-list {
@@ -58,5 +58,11 @@
         pointer-events: none;
       }
     }
+  }
+
+  &__actions {
+    display: flex;
+    align-items: center;
+    column-gap: 10px;
   }
 }
