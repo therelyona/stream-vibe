@@ -1,13 +1,13 @@
-import './Icon.scss';
-import classNames from 'classnames';
-import { Icon as MinistaIcon } from 'minista';
+import './Icon.scss'
+import classNames from 'classnames'
+import { Icon as MinistaIcon } from 'minista'
 
 const Icon = (props) => {
   const {
     className,
     name,
     hasFill = false,
-  } = props;
+  } = props
 
   return (
     <span
@@ -20,6 +20,6 @@ const Icon = (props) => {
       />
     </span>
   )
-};
+}
 
-export default Icon;
+export default Icon

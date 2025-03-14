@@ -1,11 +1,13 @@
-import './Content.scss';
+import './Content.scss'
 
-const Content = ({ children }) => {
+const Content = (props) => {
+  const { children } = props
+
   return (
     <main className="content">
       {children}
     </main>
   )
-};
+}
 
-export default Content;
+export default Content

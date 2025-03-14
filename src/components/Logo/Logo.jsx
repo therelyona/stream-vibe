@@ -1,8 +1,13 @@
-import './Logo.scss';
-import classNames from 'classnames';
+import './Logo.scss'
+import classNames from 'classnames'
 
-const Logo = ({ loading = 'lazy', className}) => {
-  const title = 'Home';
+const Logo = (props) => {
+  const {
+    className,
+    loading = 'lazy',
+  } = props
+
+  const title = 'Home'
 
   return (
     <a
@@ -12,15 +17,15 @@ const Logo = ({ loading = 'lazy', className}) => {
       aria-label={title}
     >
       <img
+        className="logo__image"
         src="/logo.svg"
         alt=""
-        className="logo__image"
         width={199}
         height={60}
         loading={loading}
       />
     </a>
-  );
-};
+  )
+}
 
-export default Logo;
+export default Logo
