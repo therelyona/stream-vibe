@@ -33,10 +33,10 @@
     @include mobile {
       border-radius: var(--border-radius-s);
     }
+  }
 
-    &__image {
-      width: 55%;
-      object-fit: contain;
-    }
+  &__image {
+    width: 55%;
+    object-fit: contain;
   }
 }
