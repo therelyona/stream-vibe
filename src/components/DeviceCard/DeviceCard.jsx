@@ -12,7 +12,7 @@ const DeviceCard = (props) => {
       <header className="device-card__header">
         <div className="device-card__image-wrapper">
           <img
-            className="image"
+            className="device-card__image"
             src={imgSrc}
             width={40}
             height={40}
@@ -20,9 +20,7 @@ const DeviceCard = (props) => {
             loading="lazy"
           />
         </div>
-        <h3 className="device-card__title h4">
-          {title}
-        </h3>
+        <h3 className="device-card__title h4">{title}</h3>
       </header>
       <div className="device-card__description">
         <p>{description}</p>
