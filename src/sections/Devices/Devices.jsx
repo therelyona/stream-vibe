@@ -30,7 +30,7 @@ const Devices = () => {
       imgSrc: '/devices/5.svg',
     },
     {
-      title: 'VR Headsets ',
+      title: 'VR Headsets',
       description: 'StreamVibe is optimized for both Android and iOS smartphones. Download our app from the Google Play Store or the Apple App Store',
       imgSrc: '/devices/6.svg',
     },
@@ -46,7 +46,7 @@ const Devices = () => {
         columns={3}
       >
         {deviceItems.map((deviceItem, index) => (
-          <DeviceCard {...deviceItem} key={index}/>
+          <DeviceCard {...deviceItem} key={index} />
         ))}
       </Grid>
     </Section>
