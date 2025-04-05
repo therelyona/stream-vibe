@@ -25,6 +25,10 @@
     @include mobile {
       padding-block: 16px;
     }
+
+    &--small-padding-y {
+      padding-block: fluid-to-laptop(20, 16);
+    }
   }
 
   &__body {
@@ -53,7 +57,7 @@
     }
   }
 
-  &__action {
+  &__actions {
     display: flex;
     column-gap: fluid-to-laptop(10, 8);
   }
