@@ -70,7 +70,7 @@ export const reviewItems = [
   },
 ]
 
-export const gernes = ['Sci-Fi TV', 'Teen TV Shows', 'US TV Shows']
+export const genres = ['Sci-Fi TV', 'Teen TV Shows', 'US TV Shows']
 
 export const director = {
   name: 'The Duffer Brothers',

@@ -70,7 +70,7 @@ export const reviewItems = [
   },
 ]
 
-export const gernes = ['Action', 'Adventure']
+export const genres = ['Action', 'Adventure']
 
 export const director = {
   name: 'Rishab Shetty',

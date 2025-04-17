@@ -4,7 +4,7 @@ import Seasons from '@/components/Seasons'
 import { description } from '@/components/Seasons/seasonInfo'
 import { castItems } from '@/components/Seasons/seasonInfo'
 import { reviewItems } from '@/components/Seasons/seasonInfo'
-import { gernes } from '@/components/Seasons/seasonInfo'
+import { genres } from '@/components/Seasons/seasonInfo'
 import { director } from '@/components/Seasons/seasonInfo'
 import { music } from '@/components/Seasons/seasonInfo'
 
@@ -21,7 +21,7 @@ export default function () {
         description={description}
         cast={castItems}
         reviewItems={reviewItems}
-        gernes={gernes}
+        genres={genres}
         director={director}
         music={music}
       />
