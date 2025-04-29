@@ -8,7 +8,7 @@ const Field = (props) => {
     id = getIdFromTitle(props.label),
     label,
     /**
-     * undefined (default) | 'email | 'textarea'
+     * undefined (default) | 'email' | 'textarea'
      */
     type,
     placeholder,
