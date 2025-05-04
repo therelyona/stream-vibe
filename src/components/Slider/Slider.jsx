@@ -46,6 +46,7 @@ const Slider = (props) => {
      */
     navigationPosition = '',
     navigationMode,
+    navigationJustifyContent,
     isNavigationHiddenMobile = true,
   } = props
 
@@ -74,6 +75,7 @@ const Slider = (props) => {
           className="slider__navigation"
           mode={navigationMode}
           position={navigationPosition}
+          justifyContent={navigationJustifyContent}
           isHiddenMobile={isNavigationHiddenMobile}
         />
       )}
