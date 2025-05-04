@@ -46,6 +46,7 @@ const MoviesBanner = () => {
           },
         }}
         navigationPosition="abs-bottom"
+        navigationJustifyContent="space-between"
         hasScrollbarOnMobile={false}
       >
         {movieCards.map((movieCard, index) => (
