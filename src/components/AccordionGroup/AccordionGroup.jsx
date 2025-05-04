@@ -27,7 +27,7 @@ const AccordionGroup = (props) => {
       {children.map((child, index) => (
         <li
           className={classNames('accordion-group__item', {
-            'accordion-group__item--last-column-item': columns > 1 && itemsPerColumn / (index + 1) === 1
+            'accordion-group__item--last-column-item': columns > 1 && (index + 1) % itemsPerColumn === 0
           })}
           key={index}
         >
