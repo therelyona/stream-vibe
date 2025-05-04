@@ -38,7 +38,7 @@ const Accordion = (props) => {
       <div
         className="accordion__content"
         id={id}
-        role="defenition"
+        role="definition"
       >
         <div className="accordion__content-inner">
           <div className="accordion__content-body">
