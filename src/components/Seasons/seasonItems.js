@@ -1,3 +1,10 @@
+import videoExampleSrc  from '@/assets/videos/Stranger-Things-2.mp4'
+import videoPosterSrc1 from '@/assets/images/video-posters/1.jpg'
+import videoPosterSrc2 from '@/assets/images/video-posters/2.jpg'
+import videoPosterSrc3 from '@/assets/images/video-posters/3.jpg'
+import videoPosterSrc4 from '@/assets/images/video-posters/4.jpg'
+import videoPosterSrc5 from '@/assets/images/video-posters/5.jpg'
+
 const seasonItems = [
   {
     title: 'Season 01',
@@ -9,8 +16,8 @@ const seasonItems = [
         description: 'On his way from a friend’s house, young Will sees something terrifying . Nearby, a sinister secret lurks in the depths of a government lab.',
         duration: '49 min',
         video: {
-          src: '/videos/Stranger-Things-2.mp4',
-          poster: '/video-posters/1.jpg',
+          src: videoExampleSrc ,
+          poster: videoPosterSrc1,
         },
       },
       {
@@ -19,8 +26,8 @@ const seasonItems = [
         description: 'Lucas, Mike and Dustin try to talk to the girl they found in the woods. Hopper questions an anxious Joyce about an unsettling phone call.',
         duration: '56 min',
         video: {
-          src: '/videos/Stranger-Things-2.mp4',
-          poster: '/video-posters/2.jpg',
+          src: videoExampleSrc ,
+          poster: videoPosterSrc2,
         },
       },
       {
@@ -29,8 +36,8 @@ const seasonItems = [
         description: 'An increasingly concerned Nancy looks for Barb and finds out what Jonathan\'s been up to. Joyce is convinced Will is trying to talk to her.',
         duration: '52 min',
         video: {
-          src: '/videos/Stranger-Things-2.mp4',
-          poster: '/video-posters/3.jpg',
+          src: videoExampleSrc,
+          poster: videoPosterSrc3,
         },
       },
       {
@@ -39,8 +46,8 @@ const seasonItems = [
         description: 'Refusing to believe Will is dead, Joyce tries to connect with her son. The boys give Eleven a makeover..',
         duration: '51 min',
         video: {
-          src: '/videos/Stranger-Things-2.mp4',
-          poster: '/video-posters/4.jpg',
+          src: videoExampleSrc,
+          poster: videoPosterSrc4,
         },
       },
       {
@@ -49,8 +56,8 @@ const seasonItems = [
         description: 'Hopper breaks into the lab while Nancy and Jonathan confront the force that took Will. The boys ask Mr. Clarke how to travel to another dimension.',
         duration: '53 min',
         video: {
-          src: '/videos/Stranger-Things-2.mp4',
-          poster: '/video-posters/5.jpg',
+          src: videoExampleSrc,
+          poster: videoPosterSrc5,
         },
       },
       {
@@ -59,8 +66,8 @@ const seasonItems = [
         description: 'On his way from a friend’s house, young Will sees something terrifying . Nearby, a sinister secret lurks in the depths of a government lab.',
         duration: '49 min',
         video: {
-          src: '/videos/Stranger-Things-2.mp4',
-          poster: '/video-posters/1.jpg',
+          src: videoExampleSrc,
+          poster: videoPosterSrc1,
         },
       },
       {
@@ -69,8 +76,8 @@ const seasonItems = [
         description: 'Lucas, Mike and Dustin try to talk to the girl they found in the woods. Hopper questions an anxious Joyce about an unsettling phone call.',
         duration: '56 min',
         video: {
-          src: '/videos/Stranger-Things-2.mp4',
-          poster: '/video-posters/2.jpg',
+          src: videoExampleSrc,
+          poster: videoPosterSrc2,
         },
       },
       {
@@ -79,8 +86,8 @@ const seasonItems = [
         description: 'An increasingly concerned Nancy looks for Barb and finds out what Jonathan\'s been up to. Joyce is convinced Will is trying to talk to her.',
         duration: '52 min',
         video: {
-          src: '/videos/Stranger-Things-2.mp4',
-          poster: '/video-posters/3.jpg',
+          src: videoExampleSrc,
+          poster: videoPosterSrc3,
         },
       },
       {
@@ -89,8 +96,8 @@ const seasonItems = [
         description: 'Refusing to believe Will is dead, Joyce tries to connect with her son. The boys give Eleven a makeover..',
         duration: '51 min',
         video: {
-          src: '/videos/Stranger-Things-2.mp4',
-          poster: '/video-posters/4.jpg',
+          src: videoExampleSrc,
+          poster: videoPosterSrc4,
         },
       },
     ]
@@ -105,8 +112,8 @@ const seasonItems = [
         description: 'On his way from a friend’s house, young Will sees something terrifying . Nearby, a sinister secret lurks in the depths of a government lab.',
         duration: '49 min',
         video: {
-          src: '/videos/Stranger-Things-2.mp4',
-          poster: '/video-posters/1.jpg',
+          src: videoExampleSrc,
+          poster: videoPosterSrc1,
         },
       },
       {
@@ -115,8 +122,8 @@ const seasonItems = [
         description: 'Lucas, Mike and Dustin try to talk to the girl they found in the woods. Hopper questions an anxious Joyce about an unsettling phone call.',
         duration: '56 min',
         video: {
-          src: '/videos/Stranger-Things-2.mp4',
-          poster: '/video-posters/2.jpg',
+          src: videoExampleSrc,
+          poster: videoPosterSrc2,
         },
       },
       {
@@ -125,8 +132,8 @@ const seasonItems = [
         description: 'An increasingly concerned Nancy looks for Barb and finds out what Jonathan\'s been up to. Joyce is convinced Will is trying to talk to her.',
         duration: '52 min',
         video: {
-          src: '/videos/Stranger-Things-2.mp4',
-          poster: '/video-posters/3.jpg',
+          src: videoExampleSrc,
+          poster: videoPosterSrc3,
         },
       },
       {
@@ -135,8 +142,8 @@ const seasonItems = [
         description: 'Refusing to believe Will is dead, Joyce tries to connect with her son. The boys give Eleven a makeover..',
         duration: '51 min',
         video: {
-          src: '/videos/Stranger-Things-2.mp4',
-          poster: '/video-posters/4.jpg',
+          src: videoExampleSrc,
+          poster: videoPosterSrc4,
         },
       },
       {
@@ -145,8 +152,8 @@ const seasonItems = [
         description: 'Hopper breaks into the lab while Nancy and Jonathan confront the force that took Will. The boys ask Mr. Clarke how to travel to another dimension.',
         duration: '53 min',
         video: {
-          src: '/videos/Stranger-Things-2.mp4',
-          poster: '/video-posters/5.jpg',
+          src: videoExampleSrc,
+          poster: videoPosterSrc5,
         },
       },
     ]
@@ -161,8 +168,8 @@ const seasonItems = [
         description: 'On his way from a friend’s house, young Will sees something terrifying . Nearby, a sinister secret lurks in the depths of a government lab.',
         duration: '49 min',
         video: {
-          src: '/videos/Stranger-Things-2.mp4',
-          poster: '/video-posters/1.jpg',
+          src: videoExampleSrc,
+          poster: videoPosterSrc1,
         },
       },
       {
@@ -171,8 +178,8 @@ const seasonItems = [
         description: 'Lucas, Mike and Dustin try to talk to the girl they found in the woods. Hopper questions an anxious Joyce about an unsettling phone call.',
         duration: '56 min',
         video: {
-          src: '/videos/Stranger-Things-2.mp4',
-          poster: '/video-posters/2.jpg',
+          src: videoExampleSrc,
+          poster: videoPosterSrc2,
         },
       },
       {
@@ -181,8 +188,8 @@ const seasonItems = [
         description: 'An increasingly concerned Nancy looks for Barb and finds out what Jonathan\'s been up to. Joyce is convinced Will is trying to talk to her.',
         duration: '52 min',
         video: {
-          src: '/videos/Stranger-Things-2.mp4',
-          poster: '/video-posters/3.jpg',
+          src: videoExampleSrc,
+          poster: videoPosterSrc3,
         },
       },
       {
@@ -191,8 +198,8 @@ const seasonItems = [
         description: 'Refusing to believe Will is dead, Joyce tries to connect with her son. The boys give Eleven a makeover..',
         duration: '51 min',
         video: {
-          src: '/videos/Stranger-Things-2.mp4',
-          poster: '/video-posters/4.jpg',
+          src: videoExampleSrc,
+          poster: videoPosterSrc4,
         },
       },
       {
@@ -201,8 +208,8 @@ const seasonItems = [
         description: 'Hopper breaks into the lab while Nancy and Jonathan confront the force that took Will. The boys ask Mr. Clarke how to travel to another dimension.',
         duration: '53 min',
         video: {
-          src: '/videos/Stranger-Things-2.mp4',
-          poster: '/video-posters/5.jpg',
+          src: videoExampleSrc,
+          poster: videoPosterSrc5,
         },
       },
       {
@@ -211,8 +218,8 @@ const seasonItems = [
         description: 'On his way from a friend’s house, young Will sees something terrifying . Nearby, a sinister secret lurks in the depths of a government lab.',
         duration: '49 min',
         video: {
-          src: '/videos/Stranger-Things-2.mp4',
-          poster: '/video-posters/1.jpg',
+          src: videoExampleSrc,
+          poster: videoPosterSrc1,
         },
       },
       {
@@ -221,8 +228,8 @@ const seasonItems = [
         description: 'Lucas, Mike and Dustin try to talk to the girl they found in the woods. Hopper questions an anxious Joyce about an unsettling phone call.',
         duration: '56 min',
         video: {
-          src: '/videos/Stranger-Things-2.mp4',
-          poster: '/video-posters/2.jpg',
+          src: videoExampleSrc,
+          poster: videoPosterSrc2,
         },
       },
     ]
