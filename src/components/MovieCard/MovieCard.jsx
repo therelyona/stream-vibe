@@ -47,7 +47,7 @@ const MovieCard = (props) => {
         )}
 
         {rating && (
-          <Badge className="movie-card__rating-badge">
+          <Badge>
             <RatingView {...rating} />
           </Badge>
         )}
