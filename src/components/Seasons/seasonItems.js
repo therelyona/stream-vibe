@@ -1,9 +1,9 @@
 import videoExampleSrc  from '@/assets/videos/Stranger-Things-2.mp4'
-import videoPosterSrc1 from '@/assets/images/video-posters/1.jpg'
-import videoPosterSrc2 from '@/assets/images/video-posters/2.jpg'
-import videoPosterSrc3 from '@/assets/images/video-posters/3.jpg'
-import videoPosterSrc4 from '@/assets/images/video-posters/4.jpg'
-import videoPosterSrc5 from '@/assets/images/video-posters/5.jpg'
+import videoPosterSrc1 from '@/assets/images/video-posters/video-posters-1.jpg'
+import videoPosterSrc2 from '@/assets/images/video-posters/video-posters-2.jpg'
+import videoPosterSrc3 from '@/assets/images/video-posters/video-posters-3.jpg'
+import videoPosterSrc4 from '@/assets/images/video-posters/video-posters-4.jpg'
+import videoPosterSrc5 from '@/assets/images/video-posters/video-posters-5.jpg'
 
 const seasonItems = [
   {

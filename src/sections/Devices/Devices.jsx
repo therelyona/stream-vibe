@@ -1,12 +1,12 @@
 import Section from '@/layouts/Section'
 import Grid from '@/components/Grid'
 import DeviceCard from '@/components/DeviceCard'
-import deviceImgSrc_1 from '@/assets/images/devices/1.svg'
-import deviceImgSrc_2 from '@/assets/images/devices/2.svg'
-import deviceImgSrc_3 from '@/assets/images/devices/3.svg'
-import deviceImgSrc_4 from '@/assets/images/devices/4.svg'
-import deviceImgSrc_5 from '@/assets/images/devices/5.svg'
-import deviceImgSrc_6 from '@/assets/images/devices/6.svg'
+import deviceImgSrc_1 from '@/assets/images/devices/devices-1.svg'
+import deviceImgSrc_2 from '@/assets/images/devices/devices-2.svg'
+import deviceImgSrc_3 from '@/assets/images/devices/devices-3.svg'
+import deviceImgSrc_4 from '@/assets/images/devices/devices-4.svg'
+import deviceImgSrc_5 from '@/assets/images/devices/devices-5.svg'
+import deviceImgSrc_6 from '@/assets/images/devices/devices-6.svg'
 
 const Devices = () => {
   const deviceItems = [

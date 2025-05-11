@@ -1,22 +1,22 @@
 export const description = 'When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces and one strange little girl.'
 
 export const castItems = [
-  { imgSrc: '/src/assets/images/season-people/1.jpg', imgAlt: 'Winona Ryder' },
-  { imgSrc: '/src/assets/images/season-people/2.jpg', imgAlt: 'David Harbour' },
-  { imgSrc: '/src/assets/images/season-people/3.jpg', imgAlt: 'Millie Bobby Brown' },
-  { imgSrc: '/src/assets/images/season-people/4.jpg', imgAlt: 'Finn Wolfhard' },
-  { imgSrc: '/src/assets/images/season-people/5.jpg', imgAlt: 'Gaten Matarazzo' },
-  { imgSrc: '/src/assets/images/season-people/6.jpg', imgAlt: 'Caleb McLaughlin' },
-  { imgSrc: '/src/assets/images/season-people/7.jpg', imgAlt: 'Noah Schnapp' },
-  { imgSrc: '/src/assets/images/season-people/8.jpg', imgAlt: 'Sadie Sink' },
-  { imgSrc: '/src/assets/images/season-people/1.jpg', imgAlt: 'Winona Ryder' },
-  { imgSrc: '/src/assets/images/season-people/2.jpg', imgAlt: 'David Harbour' },
-  { imgSrc: '/src/assets/images/season-people/3.jpg', imgAlt: 'Millie Bobby Brown' },
-  { imgSrc: '/src/assets/images/season-people/4.jpg', imgAlt: 'Finn Wolfhard' },
-  { imgSrc: '/src/assets/images/season-people/5.jpg', imgAlt: 'Gaten Matarazzo' },
-  { imgSrc: '/src/assets/images/season-people/6.jpg', imgAlt: 'Caleb McLaughlin' },
-  { imgSrc: '/src/assets/images/season-people/7.jpg', imgAlt: 'Noah Schnapp' },
-  { imgSrc: '/src/assets/images/season-people/8.jpg', imgAlt: 'Sadie Sink' },
+  { imgSrc: '/src/assets/images/season-people/season-people-1.jpg', imgAlt: 'Winona Ryder' },
+  { imgSrc: '/src/assets/images/season-people/season-people-2.jpg', imgAlt: 'David Harbour' },
+  { imgSrc: '/src/assets/images/season-people/season-people-3.jpg', imgAlt: 'Millie Bobby Brown' },
+  { imgSrc: '/src/assets/images/season-people/season-people-4.jpg', imgAlt: 'Finn Wolfhard' },
+  { imgSrc: '/src/assets/images/season-people/season-people-5.jpg', imgAlt: 'Gaten Matarazzo' },
+  { imgSrc: '/src/assets/images/season-people/season-people-6.jpg', imgAlt: 'Caleb McLaughlin' },
+  { imgSrc: '/src/assets/images/season-people/season-people-7.jpg', imgAlt: 'Noah Schnapp' },
+  { imgSrc: '/src/assets/images/season-people/season-people-8.jpg', imgAlt: 'Sadie Sink' },
+  { imgSrc: '/src/assets/images/season-people/season-people-1.jpg', imgAlt: 'Winona Ryder' },
+  { imgSrc: '/src/assets/images/season-people/season-people-2.jpg', imgAlt: 'David Harbour' },
+  { imgSrc: '/src/assets/images/season-people/season-people-3.jpg', imgAlt: 'Millie Bobby Brown' },
+  { imgSrc: '/src/assets/images/season-people/season-people-4.jpg', imgAlt: 'Finn Wolfhard' },
+  { imgSrc: '/src/assets/images/season-people/season-people-5.jpg', imgAlt: 'Gaten Matarazzo' },
+  { imgSrc: '/src/assets/images/season-people/season-people-6.jpg', imgAlt: 'Caleb McLaughlin' },
+  { imgSrc: '/src/assets/images/season-people/season-people-7.jpg', imgAlt: 'Noah Schnapp' },
+  { imgSrc: '/src/assets/images/season-people/season-people-8.jpg', imgAlt: 'Sadie Sink' },
 ]
 
 export const reviewItems = [
@@ -75,14 +75,14 @@ export const genres = ['Sci-Fi TV', 'Teen TV Shows', 'US TV Shows']
 export const director = {
   name: 'The Duffer Brothers',
   subtitle: 'From USA',
-  imgSrc: '/src/assets/images/season-people/director.jpg',
+  imgSrc: '/src/assets/images/season-people/season-people-director.jpg',
   imgAlt: 'The Duffer Brothers'
 }
 
 export const music = {
   name: 'Kyle Dixon',
   subtitle: 'From USA',
-  imgSrc: '/src/assets/images/season-people/music.jpg',
+  imgSrc: '/src/assets/images/season-people/season-people-music.jpg',
   imgAlt: 'Kyle Dixon'
 }
 
