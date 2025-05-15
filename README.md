@@ -3,15 +3,15 @@
 A multi-page streaming service application with fully featured pages, complex UI components, and responsive design.
 
 ### 🔗Demo  
-[Open the project on Vercel]
+[Open the project on Vercel](https://streamvibe-gold.vercel.app/)
 
 ### 📌**Functionality**  
-- **Home**
-- **Movies & Shows**
-- **Movie Open**
-- **Show Open** 
-- **Support** 
-- **Subscription** 
+- **[Home](https://streamvibe-gold.vercel.app/)**
+- **[Movies & Shows](https://streamvibe-gold.vercel.app/movies)**
+- **[Movie Open](https://streamvibe-gold.vercel.app/movie)**
+- **[Show Open](https://streamvibe-gold.vercel.app/show)** 
+- **[Support](https://streamvibe-gold.vercel.app/support)** 
+- **[Subscription](https://streamvibe-gold.vercel.app/subscriptions)** 
 
 ### 🚀**Technologies**  
 - **Vanilla JavaScript** — implementation of interactive components 
