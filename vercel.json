@@ -1,0 +1,9 @@
+{
+  "rewrites": [
+    { "source": "/movies", "destination": "/movies.html" },
+    { "source": "/movie", "destination": "/movie.html" },
+    { "source": "/show", "destination": "/show.html" },
+    { "source": "/subscription", "destination": "/subscription.html" },
+    { "source": "/support", "destination": "/support.html" }
+  ]
+}
